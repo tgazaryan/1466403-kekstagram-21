@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Татьяна Газарян](https://up.htmlacademy.ru/javascript/21/user/1466403).
-* Наставник: `Неизвестно`.
+* Наставник: [Даниил Царев](https://htmlacademy.ru/profile/id945835).
 
 ---
 
